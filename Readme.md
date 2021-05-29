@@ -12,7 +12,9 @@
   </a>  
 </p>
 
-__This Is Just An Simple Advance Auto Filter Bot Complete Rewritten Version Of [Adv-Filter-Bot](https://github.com/levi749/Adv-Auto-Filter-Bot-V2.git)..__
+ ഹായ് 
+ഞാൻ FILMDOM ഗ്രൂപ്പിൽ വർക്ക് ചെയ്യുന്ന ഒരു പാവം ഓട്ടോഫിൽട്ടർ ബോട്ടാണ്. എന്ന് കരുതി എന്നെ മറ്റ് ഗ്രൂപ്പിൽ ആഡ് ആക്കാൻ പറ്റില്ല.
+പിന്നെ എന്തായാലും ഇവിടെ വരെ വന്നതല്ലേ ഞങ്ങളുടെ മൂവീ ഗ്രൂപ്പിലൂടേയും ഒന്ന് ജോയിൻ ആയേര്😎😎.[Adv-Filter-Bot](https://github.com/levi749/Adv-Auto-Filter-Bot-V2.git)..__
 
 __Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its MongoDB And Reply You With The Message Link As A Button__
 
